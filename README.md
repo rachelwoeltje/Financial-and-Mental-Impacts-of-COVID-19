@@ -1,1 +1,0 @@
-# Financial-and-Mental-Impacts-of-COVID-19
