@@ -41,8 +41,11 @@ The intended audience of this analysis are healthcare (behavioral) facilities an
 ## Findings:
 Financial and Mental Impacts of COVID-19
 
-The higher the rate of job loss, depression levels will increase as well
+The higher the rate of job loss, depression levels will increase as well.
 
-Consumer Behavior became very protective in each generation
+Consumer Behavior became very protective in each generation.
+
+The Northwestern states had the least amount of depression rates. This was interesting and probably a low amount because they are not high traffic and citified areas. However, places such as California, Texas, and New York had high amounts of depression.
 
 ## Key Takeaways:
+It is important to focus on attention to the rising depression level. Although the unemployment rate has decreased, mental health should not be taken lightly. Furthermore, people should use their experience with the pandemic to set a budget to ensure they will have future savings if another event were to occur like this again.
