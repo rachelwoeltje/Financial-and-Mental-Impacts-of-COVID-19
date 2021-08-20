@@ -28,19 +28,21 @@ The world must function a certain way to maintain consistency. COVID-19 changed 
 
 
 ## Intended Audience
-The example intended audience of this analysis are healthcare (behavioral) facilities and financial institutions. The presentation and interactive dashboard are intended to inform the audience on more in-depth impacts of COVID-19. 
+The intended audience of this analysis are healthcare (behavioral) facilities and financial institutions. The presentation and interactive dashboard are intended to inform the audience on more in-depth impacts of COVID-19. 
 
 ## Methodology
-Retrieved data as CSV files
-Cleaned data in Python and Excel
-Defined key values to focus on only necessary data
-Calculated key measures in Python and Excel
-Developed interactive dashboard in Tableau
-Created Tableau Story
+- Retrieved data as CSV files
+- Cleaned data in Python and Excel
+- Defined key values to focus on only necessary data
+- Calculated key measures in Python and Excel
+- Developed interactive dashboard in Tableau
+- Created Tableau Story to present findings
 
 ## Findings:
 Financial and Mental Impacts of COVID-19
+
 The higher the rate of job loss, depression levels will increase as well
+
 Consumer Behavior became very protective in each generation
 
 ## Key Takeaways:
