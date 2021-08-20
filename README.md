@@ -11,12 +11,11 @@ My assumptions going into this project were that there would be a correlation in
 The world must function a certain way to maintain consistency. COVID-19 changed numerous aspects including people working from home, businesses shutting down, and the effects on people’s health both mentally and physically. There has rarely ever been a situation like this where the entire world, with billions of people, was affected at once. As one of these people in the masses who have been impacted by this rare occasion, I wanted to dive deeper into the affects and aftermath this impact has had on society. Most of the time, issues may arise that affect a country or state, but this is an occurrence where it has impacted the entire world. We saw the world go radio silent for an entire year. I want to determine the mental, cultural, and financial repercussions it had on the economy. 
 
 ## Data Questions
-•	How did COVID-19 affect people’s spending habits compared to before the pandemic?
-
-•	Did COVID-19 cause mental illnesses to rise and was there a correlation between an increase in mental illness and increase in spending?
-•	How did COVID-19 affect jobs?
-•	How did people spend their stimulus checks? 
-•	What economic trends happened before and after COVID-19?
+-	How did COVID-19 affect people’s spending habits compared to before the pandemic?
+-	Did COVID-19 cause mental illnesses to rise and was there a correlation between an increase in mental illness and increase in spending?
+-	How did COVID-19 affect jobs?
+-	How did people spend their stimulus checks? 
+-	What economic trends happened before and after COVID-19?
 
 
 ## Data Sources
