@@ -7,6 +7,8 @@ COVID-19 was a natural occurrence that affected the entire world. It was the fir
 
 My assumptions going into this project were that there would be a correlation in job loss along with an increase in mental health. In relation to my findings, this assumption was correct.
 
+![image](https://user-images.githubusercontent.com/77589773/130204237-1e6725f4-c70d-4b9c-9717-431ce836a1e5.png)
+
 ## Motivation
 The world must function a certain way to maintain consistency. COVID-19 changed numerous aspects including people working from home, businesses shutting down, and the effects on people’s health both mentally and physically. There has rarely ever been a situation like this where the entire world, with billions of people, was affected at once. As one of these people in the masses who have been impacted by this rare occasion, I wanted to dive deeper into the affects and aftermath this impact has had on society. Most of the time, issues may arise that affect a country or state, but this is an occurrence where it has impacted the entire world. We saw the world go radio silent for an entire year. I want to determine the mental, cultural, and financial repercussions it had on the economy. 
 
