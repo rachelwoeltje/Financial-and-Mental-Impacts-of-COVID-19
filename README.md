@@ -12,6 +12,7 @@ The world must function a certain way to maintain consistency. COVID-19 changed 
 
 Data Questions
 •	How did COVID-19 affect people’s spending habits compared to before the pandemic?
+
 •	Did COVID-19 cause mental illnesses to rise and was there a correlation between an increase in mental illness and increase in spending?
 •	How did COVID-19 affect jobs?
 •	How did people spend their stimulus checks? 
